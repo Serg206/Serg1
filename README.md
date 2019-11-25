@@ -1,4 +1,4 @@
-# Minimal ![Build Status](https://travis-ci.org/avjinder/Minimal-Todo.svg?branch=master)
+# Zametki ![Build Status]
 
 <img src="/screenshots/app_icon.png" height="200px"/> <br>
 A fully Material ToDo app with minimal features, just enough to be useful.
@@ -24,15 +24,8 @@ A fully Material ToDo app with minimal features, just enough to be useful.
 
 
 ## App Icon
-Designed by [Christopher Gundersen](cgundersen2020@gmail.com)
-## Translations
-* Spanish by [nanopc](https://github.com/nanopc) <br>
-* German by [kaiwinter](https://github.com/kaiwinter) <br>
-* Polish by [piotrek1543](https://github.com/piotrek1543) <br>
-* Finnish by [Miikka Andersson](https://github.com/miikande) <br>
-* French by [Nicola Spanti](http://www.nicola-spanti.info/)
-* Bulgarian by [Georgy Hristov](http://www.georgyhristov.xyz/) <br>
-* Vietnamese by [Susan Truong](https://github.com/susantruong)
+Designed by [Christopher Gundersen](Stethem6@gmail.com)
+
 
 ## Contributing
 Looking to contribute something to Minimal? [Here's how you can help](/Contributing.md).
@@ -41,7 +34,7 @@ Looking to contribute something to Minimal? [Here's how you can help](/Contribut
 # License:
 The MIT License (MIT)
 
-Copyright (c) 2015 Avjinder
+Copyright (c) 2019 Serg
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
